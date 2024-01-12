@@ -37,6 +37,6 @@ python3 -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 Запустить проект:
-```
 python homework.py
 ```
+python homework.py
